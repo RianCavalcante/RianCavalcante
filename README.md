@@ -11,7 +11,7 @@ Me chamo Rian Cavalcante, tenho 24 anos e sou natural de Fortaleza, CE. Concluí
         title="Clique para iniciar uma conversa no WhatsApp"
         src="https://img.shields.io/badge/WhatsApp-333333?style=for-the-badge&logo=whatsapp&logoColor=25D366"
     />
-<a href="https://www.linkedin.com/in/seu-usuario-aqui" target="_blank">
+<a href="https://www.linkedin.com/in/rian-silva-766525196" target="_blank">
     <img 
         alt="Conecte-se comigo no LinkedIn" 
         title="Meu Perfil no LinkedIn"
